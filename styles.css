@@ -1,0 +1,24 @@
+img {
+	width: 30%;
+	height: auto;
+	float: right;
+}
+h1{
+	font-weight: bold;
+	font-size: 16pt;
+	font-family: Helvetica;
+	font-variant: normal;
+}
+
+p {
+	font-size: 12pt;
+	line-height: 14pt;
+	font-family: Helvetica;
+	font-variant: normal;
+	font-style: normal;
+
+}
+
+body {
+	background-color: lightcoral;
+}
